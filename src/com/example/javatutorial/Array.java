@@ -23,6 +23,8 @@ public class Array {
         anArray[9] = 1000;
         //
 
+        //
+
         System.out.println("Element at index 0: "
                 + anArray[0]);
         System.out.println("Element at index 1: "
