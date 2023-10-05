@@ -21,6 +21,7 @@ public class Array {
         anArray[7] = 800;
         anArray[8] = 900;
         anArray[9] = 1000;
+        //
 
         System.out.println("Element at index 0: "
                 + anArray[0]);
