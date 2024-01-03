@@ -8,7 +8,7 @@ package Set;
         import java.util.Scanner;
         import java.util.Set;
         import java.util.TreeSet;
-
+// Bài 64: Hiểu rõ cấu trúc SET trong lập trình Java | Bài tập rút thăm trúng thửơng
 public class RutThamTrungThuong_TreeSet {
     Set thungPhieuDuThuong = new TreeSet();
 

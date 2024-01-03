@@ -1,6 +1,6 @@
 package oop;
 
-
+// Cách 1:
 //  // Nếu viết class học sinh mà không sử dụng kế thừa từ class ConNguoi
 //public class HocSinh {
 //    private String hoVaTen;
@@ -55,6 +55,7 @@ package oop;
 //
 //}
 
+//// Cách 2:
 // // Viết class HocSinh kế thừa từ class ConNguoi
 
 public class HocSinh extends ConNguoi{

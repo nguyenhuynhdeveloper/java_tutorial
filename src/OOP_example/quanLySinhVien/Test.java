@@ -1,6 +1,6 @@
 package OOP_example.quanLySinhVien;
 
-
+// BÀi 37: Bài tập quarn lý sinh viên trong lập trình Java
 public class Test {
     public static void main(String[] args) {
         Ngay ngay1 = new Ngay(19, 7, 2002);
